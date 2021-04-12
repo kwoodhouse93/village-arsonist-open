@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Object
+  - Fire
+  - Debug
+  - Rope
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4114160187
+    locked: 0
+  - name: FireSmoke
+    uniqueID: 3126146449
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fire
+    uniqueID: 2561114929
+    locked: 0
+  - name: Ground
+    uniqueID: 185345249
+    locked: 0
+  - name: Smoke
+    uniqueID: 3476723081
+    locked: 0
+  - name: Player
+    uniqueID: 3370704297
+    locked: 0
+  - name: UI
+    uniqueID: 1847521215
+    locked: 0
